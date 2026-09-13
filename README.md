@@ -4,11 +4,11 @@
 
 O controle de processos e produtos de importação era feito inteiramente em planilhas de Excel, sem padronização entre os responsáveis e sem visibilidade centralizada de status (canal de parametrização, exigências, pendências documentais). Com o volume de processos crescendo, o formato em planilha isolada deixou de ser sustentável para acompanhamento em equipe.
 
-Não houve apoio de consultoria externa nem de ferramentas especializadas do mercado (como plataformas de Trade Management) para esse projeto — a estruturação foi feita internamente.
+Não houve apoio de consultoria externa nem de ferramentas especializadas do mercado (como plataformas de Trade Management) para esse projeto, a estruturação foi feita internamente.
 
 ## Abordagem
 
-Participei da construção do painel junto a uma equipe de 3 pessoas, atuando em diferentes posições ao longo do processo (Assistente de Importação, Analista de Planejamento e Analista de Importação). O trabalho consistiu em:
+Participei da construção do painel junto a uma equipe de 3 pessoas, atuando em diferentes posições ao longo do processo (eu sendo Assistente de Importação, Analista de Planejamento e Analista de Importação). O trabalho consistiu em:
 
 1. Mapeamento das etapas reais do processo de importação, desde a abertura até a admissão em entreposto aduaneiro.
 2. Estruturação dessas etapas como um fluxo de status dentro do Monday.com (canal de parametrização, aferição de Licença de Importação, exigências, despacho).
@@ -27,7 +27,7 @@ Participei da construção do painel junto a uma equipe de 3 pessoas, atuando em
 
 ## Sobre os dados neste repositório
 
-Este repositório não reproduz o painel real nem dados de fornecedores, processos ou produtos da empresa — documenta a lógica de estruturação do fluxo, que é conhecimento de processo, não informação confidencial de negócio.
+Este repositório não reproduz o painel real nem dados de fornecedores, processos ou produtos da empresa, documenta a lógica de estruturação do fluxo, que é conhecimento de processo, não informação confidencial de negócio.
 
 ## Próximos passos
 
